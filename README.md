@@ -1,24 +1,11 @@
-# Hi, I'm Mubashir 👋
+# Hi there!
 
-I'm a Computer Science graduate interested in applied AI, backend engineering, distributed systems, and AI infrastructure.
+I'm Mubashir, a software engineer interested in applied AI, backend systems, and cloud infrastructure.
 
-I like building practical systems that combine real-world usefulness with solid engineering — from real-time alert systems to retrieval-augmented generation platforms.
+I like building practical software around RAG, AI agents, APIs, automation, and scalable product ideas.
 
-## Featured Projects
+Right now, I’m going deeper into AI infrastructure, distributed systems, and AWS, while trying to make complex systems feel simple, useful, and well-built.
 
-### Daleel AI
-A retrieval-augmented generation system over Islamic Q&A sources, using hybrid search, reranking, citations, and a FastAPI/Next.js architecture.
+Outside of code, I’m into cars, watches, content, and storytelling.
 
-### WildTechAlert
-A real-time human-elephant conflict mitigation system using AI detection, API infrastructure, and multi-channel alerts.
-
-### Portfolio Website
-My personal software engineering portfolio, built with Next.js and Tailwind CSS.
-
-## Tech I Work With
-
-Python · FastAPI · Next.js · TypeScript · PostgreSQL · Supabase · Pinecone · OpenAI APIs · Cohere · AWS · Vercel
-
-## Currently Learning
-
-AI agents · distributed systems · scalable retrieval systems · cloud automation
+Let's connect!
