@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Mubashir, a software engineer interested in applied AI, backend systems, and cloud infrastructure.
+I'm Mubashir, a software engineer working on applied AI, backend systems, and cloud infrastructure.
 
 I like building practical software around RAG, AI agents, APIs, automation, and scalable product ideas.
 
