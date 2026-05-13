@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there! 👋
 
 I'm Mubashir, a software engineer interested in applied AI, backend systems, and cloud infrastructure.
 
